@@ -126,3 +126,4 @@ def CBGM_poct2(trainfile, testfile, outresultfile):
 if __name__ == '__main__':
     # print(timestamp(['§胜利', 'hao', 'd']))
     CBGM_poct('0203.txt', '199801_sent.txt', 'posttest.txt')
+

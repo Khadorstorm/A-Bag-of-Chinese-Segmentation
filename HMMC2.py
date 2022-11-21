@@ -168,3 +168,4 @@ if __name__ == '__main__':
     # print(vit('迈向充满希望的新世纪', A2, B2, pi2))
     print(token2seg([1, 3, 1, 3, 1, 3, 2, 2, 1, 3], '迈向充满希望的新世纪'))
     characterHMM('199801_seg&pos.txt', '199801_sent.txt', 'HMMtestrun1.txt')
+

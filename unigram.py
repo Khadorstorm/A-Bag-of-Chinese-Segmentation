@@ -32,3 +32,4 @@ def unigram(dicfile, testfile, outresultfile):
 
 if __name__ == '__main__':
     unigram('dic.txt', '199801_sent.txt', 'unigram_test.txt')
+

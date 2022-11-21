@@ -81,3 +81,4 @@ if __name__ == '__main__':
     it = re.finditer(ch, '去北京大学第一玩')
     for match in it:
         print(match.group())
+

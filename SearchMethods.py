@@ -118,3 +118,4 @@ if __name__ == '__main__':
     print(binarySearch(dic, 0, len(dic) - 1, '黑龙江'))
     time_end = time.time()
     print('time cost', time_end - time_start, 's')
+

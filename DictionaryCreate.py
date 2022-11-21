@@ -54,3 +54,4 @@ if __name__ == '__main__':
     filename = '199801_seg&pos.txt'
     outfilename = 'gbkdic.txt'
     dicDrain(filename, outfilename)
+

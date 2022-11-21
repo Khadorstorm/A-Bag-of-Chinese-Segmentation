@@ -118,3 +118,4 @@ if __name__ == '__main__':
     pb.train('199802.txt')
     result = pb.seg(['今','天','天','气','晴朗'])
     print(result)
+

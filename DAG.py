@@ -88,3 +88,4 @@ if __name__ == '__main__':
         else:
             print(str(line[i:route[i][1] + 1]) + '/ ')
         i = route[i][1] + 1
+
